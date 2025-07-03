@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Light Design" android:id="@+id/lightDesign"></item>
+    <item android:title="Dark Design" android:id="@+id/darkDesign" />
+    <item android:title="Info - Developer" android:id="@+id/infoDeveloper" />
+</menu>

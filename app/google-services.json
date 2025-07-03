@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "196380565201",
+    "firebase_url": "https://basic-math-calculations.firebaseio.com",
+    "project_id": "basic-math-calculations",
+    "storage_bucket": "basic-math-calculations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196380565201:android:cb8c88d3f5b63205956ff0",
+        "android_client_info": {
+          "package_name": "com.adlibita.basicmathcalculations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196380565201-8h9n8it0qjhci1ffvmn58rq5tlfuoud1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClvUFFGHe7Qze9ryx4mpz7cK1XnAGBMzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196380565201-8h9n8it0qjhci1ffvmn58rq5tlfuoud1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
